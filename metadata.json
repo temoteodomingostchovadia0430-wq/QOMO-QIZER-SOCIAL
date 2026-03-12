@@ -1,0 +1,8 @@
+{
+  "name": "QOMO QIZER SOCIAL",
+  "description": "QOMO QIZER SOCIAL - Ganha, comunica e protege. Um app focado em criadores de conteúdo, pequenos negócios e monetização automática com privacidade máxima e alcance global.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
